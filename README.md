@@ -1,4 +1,5 @@
 # Mailchimp-Ajax-Form
+<hr>
 The Mailchimp Ajax Form plugin enables you to create a form for both contact submissions and Mailchimp subscriptions
 #Installation:
 Upload the entire mailchimp-ajax-form folder to the /wp-content/plugins/ directory, or navigate to the Plugins menu and upload the mailchimp-ajax-form.zip file. Activate the plugin through the Plugins screen (Plugins > Installed Plugins). You will now find the "Mailchimp Ajax Form" menu in your WordPress admin screen.
