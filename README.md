@@ -1,5 +1,5 @@
 # Mailchimp-Ajax-Form
-The Mailchimp Ajax Form plugin enables you to create a form for both contact submissions and Mailchimp subscriptions. This form supports Ajax-powered submissions and utilizes CAPTCHA version 2.
+The Mailchimp Ajax Form plugin is a WordPress plugin that enables you to create a form for both contact submissions and Mailchimp subscriptions. This form supports Ajax-powered submissions and utilizes CAPTCHA version 2.
 <br>
 <h2>Installation:</h2>
 <br>
