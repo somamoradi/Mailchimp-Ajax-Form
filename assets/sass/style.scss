@@ -1,0 +1,116 @@
+$color__text: #1C1C27;
+$color__lable: #323539;
+$color__border: #cacad1;
+$color__btn: #323539;
+$color__white: #fff;
+
+
+#mailchimp_contact_form_wrap{
+    * {
+        box-sizing: border-box;
+    }
+    padding: 2em;
+    display: flex;
+    align-items: stretch;
+    height: 100%;
+    width: auto;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid $color__border;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: $color__white;
+    overflow: hidden;
+    position: relative;
+    .contact_form_container {
+        position: relative;
+    }
+    #mailchimp-ajax-form {
+        display: flex;
+        flex-direction: column;
+        row-gap: 1em;
+        .form_group{
+            label {
+                margin-bottom: 0.6em;
+                color: $color__lable;
+                font-size: 16px;
+            }
+            .input_text{
+                border: 1px solid $color__border;
+                width: 100%;
+                padding: 7px;
+            }
+            .input_submit {
+                color: $color__text;
+                background: $color__btn;
+                border: none;
+                border-radius: 0;
+                padding: 0.7em 1em;
+                font-size: 17px;
+                width: 45%;
+                border: 1px solid $color__border;
+                background-color:#626262;
+                color: $color__white;
+                &:hover {
+                    background-color:#828282;
+                }
+            }
+            &.col_flex {
+                display: flex;
+                gap: 1em;
+                .col_6 {
+                    width: 50%;
+                }
+            }
+            .g-recaptcha{
+                display: flex;
+                justify-content: center;
+            }
+        }
+        
+    }
+    .message_wrap {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: center;
+        .output_message_wrap {
+            display: flex;
+            align-content: center;
+            justify-content: center;
+            align-items: center;
+            text-align: center;       
+            .output_message{
+                color: $color__text;
+                font-size: 25px;
+            }
+        }
+        
+        #back_to_form{
+            background-image: url('../images/back_to.svg');
+            background-size: contain;
+            width: 30px;
+            height: 30px;
+            display: block;
+            background-repeat: no-repeat;
+            cursor: pointer;
+            position: absolute;
+            top: 1em;
+            left: 1em;
+        }
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    #mailchimp_contact_form_wrap {
+        #mailchimp-ajax-form{
+            .form_group.col_flex{
+                flex-direction: column;
+                .col_6 {
+                    width: 100%;
+                } 
+            }
+        }
+    }
+  }

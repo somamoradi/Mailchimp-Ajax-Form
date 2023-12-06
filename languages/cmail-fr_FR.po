@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Contact Form + Mailchimp\n"
+"POT-Creation-Date: 2023-11-22 10:53+0100\n"
+"PO-Revision-Date: 2023-11-22 10:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: mailchimp-ajax-form.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: form.php:6
+msgid "First Name*"
+msgstr "Prénom*"
+
+#: form.php:10
+msgid "Last Name*"
+msgstr "Nom*"
+
+#: form.php:15
+msgid "E-mail*"
+msgstr "E-mail*"
+
+#: form.php:20
+msgid "Company"
+msgstr "Société"
+
+#: form.php:25
+msgid "Your message"
+msgstr "Message"
+
+#: form.php:31
+msgid "I want to receive news from"
+msgstr "Pour rester informés de l’actualité du groupe"
+
+#: form.php:38
+msgid "Send"
+msgstr "Envoyer"
+
+#: mailchimp-ajax-form.php:37
+msgid "Your message has been sent!"
+msgstr "Votre message nous a été transmis, à très bientôt."
+
+#: mailchimp-ajax-form.php:38
+msgid "Your email has been added to the newsletter."
+msgstr "Votre demande a bien été enregistrée, à très bientôt."
+
+#: mailchimp-ajax-form.php:39
+msgid "You are already in our mailing list. Your details have been updated."
+msgstr ""
+"Vous êtes déjà abonné à nos informations.  Vos informations ont été mises à "
+"jour."
+
+#: mailchimp-ajax-form.php:40
+msgid "Something wrong happened! Please try again Later."
+msgstr "Une erreur s’est produite, merci de réessayez plus tard."
+
+#: mailchimp-ajax-form.php:41
+msgid "Your e-mail is not valid!"
+msgstr "L'adresse e-mail n'est pas valide."
+
+#: mailchimp-ajax-form.php:42
+msgid "Sorry, captcha is not okay!"
+msgstr "Le captcha n’a pas été bien enregistré"
+
+#: mailchimp-ajax-form.php:43
+msgid "Robot verification failed, please try again."
+msgstr "La vérification du robot a échoué, merci de réessayer."
+
+#: mailchimp-ajax-form.php:44
+msgid "Please check the reCAPTCHA box."
+msgstr "Veuillez cocher la case reCAPTCHA."
+
+#: settings.php:13
+msgid "Mailchimp Ajax Form Settings*"
+msgstr "Paramètres du formulaire Mailchimp Ajax*"
+
+#: settings.php:45
+msgid ""
+"Use <strong>[mailchimp_ajax_form]</strong> to show the contact form in your "
+"theme."
+msgstr ""
+"Utilisez <strong>[mailchimp_ajax_form]</strong> pour afficher le formulaire "
+"de contact dans votre thème."
+
+#. Plugin Name of the plugin/theme
+msgid "Ajax Contact Form + Mailchimp"
+msgstr "Formulaire de contact Ajax + Mailchimp"
+
+#. Description of the plugin/theme
+msgid ""
+"A WordPress plugin featuring an AJAX-enabled form for Mailchimp "
+"subscription.."
+msgstr ""
+"Un plugin WordPress proposant un formulaire compatible AJAX pour "
+"l'abonnement Mailchimp."
+
+#. Author of the plugin/theme
+msgid "Soma Moradi"
+msgstr "Soma Moradi"
+
+#~ msgid "I want to stay in touch with"
+#~ msgstr "Pour rester informés de l’actualité du groupe"
+
+#~ msgid "Subscribe to Newsletter"
+#~ msgstr "S'inscrire à la Newsletter"
+
+#~ msgid "Message Sent!"
+#~ msgstr "Message envoyé!"
+
+#~ msgid "You are already subscribed."
+#~ msgstr "Vous êtes déjà abonné."
+
+#~ msgid "There is an Error! Try Again Later."
+#~ msgstr "Il y a une erreur! Réessayez plus tard."
+
+#~ msgid "mailchimp AJAX Form"
+#~ msgstr "Formulaire AJAX mailchimp"

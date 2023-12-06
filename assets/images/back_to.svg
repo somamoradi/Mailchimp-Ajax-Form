@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 32" width="23" height="32">
+	<title>Sans-titre-—-17-novembre-14-57-31</title>
+	<defs>
+		<image  width="21" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAfCAMAAAA/UnbCAAAAAXNSR0IB2cksfwAAAJxQTFRFHBwnPDxFpKSpWFhgampx9PT1////lJSZJycxpqaqQ0NM2NjacXF4iIiOqqquLi441dXXY2Nq8fHxdnZ9o6OnIyMuHx8qnJygdXV7ODhC0dHTl5ec4+PkSkpTzc3Pv7/CfHyCsbG1lZWa39/gRkZPXFxk7e3u+Pj4eHh/NTU/ysrNkpKXbm51nJyhY2Nr8fHyX19nk5OYjY2THh4o7f23AgAAADR0Uk5TAP////////8A////////IP//////AAD//8D///////////////////+Q////////////AGWBhwUAAAC/SURBVHicjZLZEoIwDEVbhYiAgAgV933Bffn/f1MSpmMbHrxPcKb3hHQQgkW22hw6LnRs5nUBGPUD4DR0Kwg9ox0hgyBmbYDI4203bGr7/7adhnYi8bWfDn7aWV4xNcQtCqM9GuNuEzo4pfYspY3nRBc0YglEZUJ4hd+k1vXt5BnhzRZP7/b1nTk073BEXJ7gjA+W5VLSEMuiY1p0TIuOujZbbneyFCbGS/jmYeLa8hRW0ML+HbRwWllenAoRvz8DFQ4/ezhRJwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="1" y="1"/>
+</svg>
